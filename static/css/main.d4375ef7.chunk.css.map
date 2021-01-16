@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,SACE,iBAAkB,CAClB,iBACE,aAAc,CACd,iBAAkB,CAClB,qBAAsB,CACtB,sBAAuB","file":"main.d4375ef7.chunk.css","sourcesContent":[".counter {\n  text-align: center;\n  &__button {\n    margin: 0 20px;\n    padding: 10px 30px;\n    background-color: peru;\n    border: 3px outset navy;\n  }\n}\n"]}
